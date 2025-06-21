@@ -1,4 +1,4 @@
-# Tumor Prior-Guided Instance Clustering Driving-Multi-instance Learning for Squamous Cell Carcinoma Whole-slide Grading
+# Tumor Priori Knowledge-Guided Instance Clustering-Driving Multi-instance Learning for Squamous Cell Carcinoma Whole-slide Grading
 Pan Huang, Member, IEEE, Mingrui Ma, Yunchun Sun, Sukun Tian, Member, IEEE, Ziyue Xu, Senior Member, IEEE, and Jing Qin, Senior Member, IEEE
 
 Our manuscript is in the peer review, and we will completely share the dataset and code after the peer review.
