@@ -1,7 +1,7 @@
 ############################# TicMIL_model_modules ##############################
-#### Author: Dr. Mingrui Ma
-#### Email: xxx
-#### Department: Xinjiang University
+#### Author: Dr.Pan Huang
+#### Email: XXx
+#### Department: CQU
 #### Attempt: creating TicMIL model by loading pretrained weight for searching the best learning rate
 import time
 
