@@ -1,7 +1,7 @@
 ############################# TicMIL Demo main function ##############################
-#### Author: Dr.Mingrui Ma
+#### Author: Dr.Pan Huang
 #### Email: XXx
-#### Department: XJU
+#### Department: CQU
 #### Attempt: Testing TicMIL Demo
 #### TicMIL: A Tumor-guiding Instance Clustered Multi-instance Learning Network for Cervix Grading from Whole-slide Images
 
