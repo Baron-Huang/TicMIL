@@ -1,9 +1,75 @@
 # Tumor Priori Knowledge-Guided Instance Clustering-Driving Multi-instance Learning for Squamous Cell Carcinoma Whole-slide Grading
-Pan Huang, Member, IEEE, Mingrui Ma, Yunchun Sun, Sukun Tian, Member, IEEE, Ziyue Xu, Senior Member, IEEE, and Jing Qin, Senior Member, IEEE
 
-Our manuscript is in the peer review, and we will completely share the dataset and code after the peer review.
+## 🧔: Authors
+- Pan Huang <IEEE Member>, Mingrui Ma, Yunchun Sun, Sukun Tian<IEEE Member>, Ziyue Xu <IEEE Senior Member>, Qin Jin <IEEE Senior Member>
 
-# Introduction
-Accurate pathological grading is vital for the diagnosis, treatment, and prognosis of squamous cell carcinoma (SCC), which is expected to focus on the tumor region. However, existing relational multi-instance learning (MIL) approaches overly learn nontumor instances, resulting in inaccurate SCC pathology grading. Inspired by this critical issue, this study proposes an end-to-end tumor priori knowledge-guided instance clustering-driving multi-instance learning, i.e., TicMIL, with three fold ideas: first, we develop an end-to-end instance inhibition parallel learning algorithm that is able to build the precise feature representations for non-equilibrium learning of tumor and nontumor instances; second, we incorporate the tumor priori knowledge-guiding instance clustering into the network for addressing the fuzzy labeling of cluster centers, as well as enhancing the model’s representation ability to the tumor instances; third, we prove that model the imbalance between tumor and nontumor instances into the relational MIL, thus decreasing the decision entropy value of model for enlarging the learning margin to obtain high grading accraucy. We employ extensive experiments on two SCC datasets, i.e., AMU-CSCC and AMU-LSCC, which show that the TicMIL outperforms other MIL SOTAs. It is able to represent the SCC pathology grading patterns with high accuracy, proving its potential for clinical utility.
+## :fire: News
+
+- [2025/08/25] Our manuscript was currently "Accept with Minor Revision" in _Medical Image Analysis (IF 11.8)_.
+- [2025/05/27] Our manuscript was "Major Revision" in _Medical Image Analysis (IF 11.8)_.
+- [2024/12/15] Our manuscript was submitted to _Medical Image Analysis (IF 11.8)_.
 
 
+
+## :rocket: Pipeline
+
+Here's an overview of our **Multi-instance Learning Network with Prototype-instance Adversarial Contrastive Learning (PacMIL)** method:
+
+<img src="https://github.com/Baron-Huang/PacMIL/blob/main/Image/Main_Frame_for_PacMIL.png" style="width:75%; height:75%;">
+
+
+
+## :mag: TODO
+<font color="red">**We are currently organizing all the code. Stay tuned!**</font>
+- [x] training code
+- [x] Evaluation code
+- [x] Model code
+- [ ] Pretrained weights
+- [ ] Datasets
+
+
+
+
+
+## 🛠️ Getting Started
+
+To get started with NCFM, follow the installation instructions below.
+
+1.  Clone the repo
+
+```sh
+git clone https://github.com/Baron-Huang/PacMIL
+```
+
+2. Install dependencies
+   
+```sh
+pip install -r requirements.txt
+```
+
+3. Training on Swin Transformer-S Backbone
+```sh
+sh PacMIL_CH_CSCC.sh or PacMIL_CH_LSCC.sh
+Modify: --abla_type sota --run_mode train --random_seed ${seed}
+```
+
+4. Evaluation
+```sh
+sh PacMIL_CH_CSCC.sh or PacMIL_CH_LSCC.sh
+Modify: --abla_type sota --run_mode test --random_seed ${seed}
+```
+
+5. Extract features for plots
+```sh
+sh PacMIL_CH_CSCC.sh or PacMIL_CH_LSCC.sh
+Modify: --abla_type sota --run_mode test --random_seed ${seed} --feat_extract
+```
+
+6. Interpretability plots
+```sh
+sh PacMIL_CH_CSCC.sh or PacMIL_CH_LSCC.sh
+Modify: --abla_type sota --run_mode test --random_seed ${seed} --bag_weight
+```
+
+## :postbox: Contact
+If you have any questions, please contact [Dr. Pan Huang](https://scholar.google.com/citations?user=V_7bX4QAAAAJ&hl=zh-CN) (`mrhuangpan@163.com or pan.huang@polyu.edu.hk`).
