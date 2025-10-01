@@ -12,7 +12,7 @@
 
 ## :rocket: Pipeline
 
-Here's an overview of our **Multi-instance Learning Network with Prototype-instance Adversarial Contrastive Learning (PacMIL)** method:
+Here's an overview of our **Tumor Priori Knowledge-Guided Instance Clustering-Driving Multi-instance Learning (TicMIL)** method:
 
 <img src="https://github.com/Baron-Huang/PacMIL/blob/main/Image/Main_Frame_for_PacMIL.png" style="width:75%; height:75%;">
 
