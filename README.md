@@ -5,9 +5,8 @@
 
 ## :fire: News
 
-- [2025/08/25] Our manuscript was currently "Accept with Minor Revision" in _Medical Image Analysis (IF 11.8)_.
-- [2025/05/27] Our manuscript was "Major Revision" in _Medical Image Analysis (IF 11.8)_.
-- [2024/12/15] Our manuscript was submitted to _Medical Image Analysis (IF 11.8)_.
+- [2025/10/02] Our manuscript was currently "In Peer Review" in _IEEE Transactions on Circuits and Systems for Video Technology (IF 11.2)_.
+- [2024/06/27] Our manuscript was submitted to _IEEE Transactions on Circuits and Systems for Video Technology (IF 11.8)_.
 
 
 
