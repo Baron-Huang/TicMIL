@@ -37,7 +37,7 @@ To get started with NCFM, follow the installation instructions below.
 1.  Clone the repo
 
 ```sh
-git clone https://github.com/Baron-Huang/PacMIL
+git clone https://github.com/Baron-Huang/TicMIL
 ```
 
 2. Install dependencies
@@ -48,25 +48,25 @@ pip install -r requirements.txt
 
 3. Training on Swin Transformer-S Backbone
 ```sh
-sh PacMIL_CH_CSCC.sh or PacMIL_CH_LSCC.sh
+sh TicMIL_main.sh
 Modify: --abla_type sota --run_mode train --random_seed ${seed}
 ```
 
 4. Evaluation
 ```sh
-sh PacMIL_CH_CSCC.sh or PacMIL_CH_LSCC.sh
+sh TicMIL_main.sh
 Modify: --abla_type sota --run_mode test --random_seed ${seed}
 ```
 
 5. Extract features for plots
 ```sh
-sh PacMIL_CH_CSCC.sh or PacMIL_CH_LSCC.sh
+sh TicMIL_main.sh
 Modify: --abla_type sota --run_mode test --random_seed ${seed} --feat_extract
 ```
 
 6. Interpretability plots
 ```sh
-sh PacMIL_CH_CSCC.sh or PacMIL_CH_LSCC.sh
+sh TicMIL_main.sh
 Modify: --abla_type sota --run_mode test --random_seed ${seed} --bag_weight
 ```
 
