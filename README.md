@@ -14,7 +14,7 @@
 
 Here's an overview of our **Tumor Priori Knowledge-Guided Instance Clustering-Driving Multi-instance Learning (TicMIL)** method:
 
-<img src="https://github.com/Baron-Huang/TicMIL/blob/main/Main_fig/Main_Frame_for_TicMIL.jpg" style="width:75%; height:75%;">
+<img src="https://github.com/Baron-Huang/TicMIL/blob/main/Main_fig/Main_Frame_for_TicMIL.jpg" style="width:80%; height:80%;">
 
 
 
