@@ -32,7 +32,7 @@ Here's an overview of our **Tumor Priori Knowledge-Guided Instance Clustering-Dr
 
 ## 🛠️ Getting Started
 
-To get started with NCFM, follow the installation instructions below.
+To get started with TicMIL, follow the installation instructions below.
 
 1.  Clone the repo
 
