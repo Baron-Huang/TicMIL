@@ -71,4 +71,4 @@ Modify: --abla_type sota --run_mode test --random_seed ${seed} --bag_weight
 ```
 
 ## :postbox: Contact
-If you have any questions, please contact [Dr. Pan Huang](https://scholar.google.com/citations?user=V_7bX4QAAAAJ&hl=zh-CN) (`mrhuangpan@163.com or pan.huang@polyu.edu.hk`).
+If you have any questions, please contact [Dr. Pan Huang](https://scholar.google.com/citations?user=V_7bX4QAAAAJ&hl=zh-CN) (`mrhuangpan@163.com or panhuang@polyu.edu.hk`).
