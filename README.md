@@ -1,4 +1,4 @@
-# Instance Decision Entropy Inhibition-driven Prior-guiding Weakly-supervised Clustering for Squamous Carcinoma Whole-slide Grading
+# Instance Decision-entropy Inhibition-driven Prior-guiding Weakly-supervised Clustering for Squamous Carcinoma Whole-slide Grading
 
 ## 🧔 Authors
 - Pan Huang, _Member_, _IEEE_, Mingrui Ma, Yunchun Sun, Sukun Tian, _Member_, _IEEE_, Qin Jin, _Senior Member_, _IEEE_
@@ -10,7 +10,7 @@
 
 ## :rocket: Pipeline
 
-Here's an overview of our **Instance Decision Entropy Inhibition-driven Prior-guiding Weakly-supervised Clustering (IDEI-PWC)** method:
+Here's an overview of our **Instance Decision-entropy Inhibition-driven Prior-guiding Weakly-supervised Clustering (IDI-PWC)** method:
 
 <img src="https://github.com/Baron-Huang/TicMIL/blob/main/Main_fig/Main_Frame_for_TicMIL.jpg" style="width:80%; height:80%;">
 
@@ -30,7 +30,7 @@ Here's an overview of our **Instance Decision Entropy Inhibition-driven Prior-gu
 
 ## 🛠️ Getting Started
 
-To get started with **IDEI-PWC**, follow the installation instructions below.
+To get started with **IDI-PWC**, follow the installation instructions below.
 
 1.  Clone the repo
 
