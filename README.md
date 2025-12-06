@@ -30,7 +30,7 @@ Here's an overview of our **Instance Decision-entropy Inhibition-driven Prior-gu
 
 ## 🛠️ Getting Started
 
-To get started with TicMIL, follow the installation instructions below.
+To get started with **IDI-PWC**, follow the installation instructions below.
 
 1.  Clone the repo
 
