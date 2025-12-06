@@ -10,7 +10,7 @@
 
 ## :rocket: Pipeline
 
-Here's an overview of our **Instance Decision-entropy Inhibition-driven Prior-guiding Weakly-supervised Clustering (IDI-PWC)** method:
+Here's an overview of our **Instance Decision-entropy Inhibition-optimized Prior-guiding Weakly-supervised Clustering (IDI-PWC)** method:
 
 <img src="https://github.com/Baron-Huang/TicMIL/blob/main/Main_fig/Main_Frame_for_TicMIL.jpg" style="width:80%; height:80%;">
 
