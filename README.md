@@ -1,16 +1,16 @@
-# Instance Decision-entropy Inhibition-optimized Prior-guiding Weakly-supervised Clustering for Squamous Carcinoma Whole-slide Grading
+# Tumor Priori Knowledge-Guided Instance Clustering-Driving Multi-instance Learning for Squamous Cell Carcinoma Whole-slide Grading
 
 ## 🧔 Authors
 - Pan Huang, _Member_, _IEEE_, Mingrui Ma, Yunchun Sun, Sukun Tian, _Member_, _IEEE_, Qin Jin, _Senior Member_, _IEEE_
 
 ## :fire: News
-- [2025/12/28] Our manuscript will be submitted to _IEEE Transactions on Medical Imaging (IF 9.8)_.
+- [2025/12/09] Our manuscript is submitted to _IEEE Transactions on Instrumentation and Measurement (IF 5.6)_.
 
 
 
 ## :rocket: Pipeline
 
-Here's an overview of our **Instance Decision-entropy Inhibition-optimized Prior-guiding Weakly-supervised Clustering (IDI-PWC)** method:
+Here's an overview of our **Tumor Priori Knowledge-Guided Instance Clustering-Driving Multi-instance Learning (TicMIL)** method:
 
 <img src="https://github.com/Baron-Huang/TicMIL/blob/main/Main_fig/Main_Frame_for_TicMIL.jpg" style="width:80%; height:80%;">
 
@@ -30,7 +30,7 @@ Here's an overview of our **Instance Decision-entropy Inhibition-optimized Prior
 
 ## 🛠️ Getting Started
 
-To get started with **IDI-PWC**, follow the installation instructions below.
+To get started with **TicMIL**, follow the installation instructions below.
 
 1.  Clone the repo
 
