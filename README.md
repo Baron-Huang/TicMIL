@@ -9,7 +9,7 @@
 
 ## :rocket: Pipeline
 
-Here's an overview of our **Instance Decision Entropy Inhibition-optimized Prior-guiding Weakly-supervised Clustering (IDI-PWC)** method:
+Here's an overview of our **Instance Decision-entropy Inhibition-optimized Prior-guiding Actively Explainable Clustering (IDI-PAEC)** method:
 
 <img src="https://github.com/Baron-Huang/TicMIL/blob/main/Main_fig/Main_Frame_for_TicMIL.jpg" style="width:80%; height:80%;">
 
@@ -29,7 +29,7 @@ Here's an overview of our **Instance Decision Entropy Inhibition-optimized Prior
 
 ## 🛠️ Getting Started
 
-To get started with **IDI-PWC**, follow the installation instructions below.
+To get started with **IDI-PAEC**, follow the installation instructions below.
 
 1.  Clone the repo
 
@@ -45,25 +45,25 @@ pip install -r requirements.txt
 
 3. Training on Swin Transformer-S Backbone
 ```sh
-sh IDI_PWC_main.sh
+sh IDI_PAEC_main.sh
 Modify: --abla_type sota --run_mode train --random_seed ${seed}
 ```
 
 4. Evaluation
 ```sh
-sh IDI_PWC_main.sh
+sh IDI_PAEC_main.sh
 Modify: --abla_type sota --run_mode test --random_seed ${seed}
 ```
 
 5. Extract features for plots
 ```sh
-sh IDI_PWC_main.sh
+sh IDI_PAEC_main.sh
 Modify: --abla_type sota --run_mode test --random_seed ${seed} --feat_extract
 ```
 
 6. Interpretability plots
 ```sh
-sh TicMIL_main.sh
+sh IDI_PAEC_main.sh
 Modify: --abla_type sota --run_mode test --random_seed ${seed} --bag_weight
 ```
 
