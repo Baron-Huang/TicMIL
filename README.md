@@ -1,4 +1,4 @@
-# Instance Decision-entropy Inhibition-optimized Prior-guiding Actively Explainable Clustering for High-effect Pathology-grade Indicator Learning
+# Instance Decision-entropy Inhibition-optimized Prior-guiding Active Explanation Clustering for High-effect Pathology-grade Indicator Learning
 ## 🧔 Authors
 - Pan Huang, _Member_, _IEEE_, Mingrui Ma, Yifang Ping, Sukun Tian, Qin Jin, _Senior Member_, _IEEE_
 
@@ -9,7 +9,7 @@
 
 ## :rocket: Pipeline
 
-Here's an overview of our **Instance Decision-entropy Inhibition-optimized Prior-guiding Actively Explainable Clustering (IDI-PAEC)** method:
+Here's an overview of our **Instance Decision-entropy Inhibition-optimized Prior-guiding Active Explanation Clustering (IDI-PAEC)** method:
 
 <img src="https://github.com/Baron-Huang/TicMIL/blob/main/Main_fig/Main_Frame_for_TicMIL.jpg" style="width:80%; height:80%;">
 
