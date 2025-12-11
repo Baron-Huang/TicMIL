@@ -1,7 +1,6 @@
-# Instance Decision Entropy Inhibition-optimized Prior-guiding Weakly-supervised Clustering for Squamous Carcinoma Whole-slide Grading
-
+# Instance Decision-entropy Inhibition-optimized Prior-guiding Actively Explainable Clustering for High-effect Pathology-grade Indicator Learning
 ## 🧔 Authors
-- Pan Huang, _Member_, _IEEE_, Mingrui Ma, Yunchun Sun, Sukun Tian, _Member_, _IEEE_, Qin Jin, _Senior Member_, _IEEE_
+- Pan Huang, _Member_, _IEEE_, Mingrui Ma, Yifang Ping, Sukun Tian, Qin Jin, _Senior Member_, _IEEE_
 
 ## :fire: News
 - [2025/12/29] Our manuscript will be submitted to _IEEE Transactions on Medical Imaging (IF 9.8)_.
